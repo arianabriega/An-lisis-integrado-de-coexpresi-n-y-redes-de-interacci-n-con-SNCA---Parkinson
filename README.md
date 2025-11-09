@@ -20,7 +20,7 @@ ________________________________________________________________________
 
 ## 🎯 Objetivo 
 
-Caracterizar la posición de SNCA dentro de una red biológica más amplia y priorizar genes candidatos potencialmente asociados a su función o disfunción neuronal.
+Caracterizar la posición de SNCA dentro de una red biológica más amplia y priorizar genes candidatos potencialmente asociados a su función o disfunción neuronal en la enfermedad Parkinson.
 
 ________________________________________________________________________
 
