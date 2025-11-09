@@ -38,6 +38,8 @@ ________________________________________________________________________
 ## 📊 Resultados principales
 
 Este trabajo integró distintas herramientas de análisis bioinformático, topológico y funcional para comprender cómo SNCA, la proteína α-sinucleína, se inserta en la compleja red molecular de la enfermedad de Parkinson. A través del estudio de coexpresión génica y su integración con datos de interacción proteica, fue posible reconstruir 9 módulos de coexpresion que refleja la interdependencia entre procesos sinápticos, mitocondriales y de síntesis proteica, pilares del equilibrio neuronal.
+
 La identificación de genes hubs (NAPB, UCHL1, ATP6V1A, STXBP1, etc.) altamente conectados y cercanos a SNCA reveló un conjunto de componentes que podrían influir de manera indirecta en su agregación o toxicidad, sugiriendo que el daño neuronal surge más de la ruptura de un sistema integrado que de la falla de un solo gen.
+
 En conjunto, los resultados refuerzan la idea de que el Parkinson no puede explicarse por un único evento molecular, sino por la descoordinación progresiva de redes funcionales interdependientes que mantienen la homeostasis neuronal.
 El enfoque adoptado, que combina la modelización computacional con la interpretación biológica, muestra el valor del análisis de redes como herramienta para transformar datos en hipótesis experimentales, acercando la bioinformática a la biología real de la enfermedad.
