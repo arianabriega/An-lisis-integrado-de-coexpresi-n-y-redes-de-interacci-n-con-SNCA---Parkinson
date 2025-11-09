@@ -1,16 +1,17 @@
 # Analisis-integrado-de-coexpresion-y-redes-de-interaccion-con-SNCA---Parkinson
 📑 Análisis integrado de coexpresión y redes de interacción proteica centrado en SNCApara la identificación de genes candidatos asociados a procesos neurodegenerativos 
 
-Universidad del Norte Santo Tomas de Aquino
+- Universidad del Norte Santo Tomas de Aquino
 
-Bioinformatica  - Bioingenieria
+- Bioinformatica  - Bioingenieria
 
-Autora: BRIEGA, Ariana Martina
+- Autora: BRIEGA, Ariana Martina
 
-Docente: Esp. Lic. Ignacio Labari
+- Docente: Esp. Lic. Ignacio Labari
 
-11 de Noviembre de 2025
+- 11 de Noviembre de 2025
 ________________________________________________________________________
+
 La comprensión de los mecanismos moleculares que subyacen a las enfermedades neurodegenerativas representa uno de los mayores desafíos actuales de la biología y la medicina. Dentro de este grupo de patologías, la enfermedad de Parkinson ocupa un lugar central por su elevada prevalencia y su compleja etiología multifactorial, que involucra tanto factores genéticos como ambientales. En este contexto, el gen SNCA, que codifica para la α-sinucleína, ha sido identificado como un elemento clave en la fisiopatología de múltiples desórdenes neurodegenerativos conocidos como sinucleinopatías, entre ellos el Parkinson, la demencia con cuerpos de Lewy y la atrofia multisistémica.
 
 ________________________________________________________________________
