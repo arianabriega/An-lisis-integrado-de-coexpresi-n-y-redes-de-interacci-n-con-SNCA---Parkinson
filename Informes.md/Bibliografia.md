@@ -2,7 +2,7 @@
 
 National Center for Biotechnology Information. (2007). GSE7621: Expression data of substantia nigra from postmortem human brain of Parkinson's disease patients (PD). GEO
 
-Lesnick TG, Papapetropoulos S, Mash DC, Ffrench-Mullen J et al. A genomic pathway approach to a complex disease: axon guidance and Parkinson disease. PLoS Genet 2007 Jun;3(6):e98. PMID: 17571925
+Lesnick, T. G., Papapetropoulos, S., Mash, D. C., Ffrench-Mullen, J., Shehadeh, L., de Andrade, M., Henley, J. R., Rocca, W. A., Ahlskog, J. E., & Maraganore, D. M. (2007). A genomic pathway approach to a complex disease: axon guidance and Parkinson disease. PLoS genetics, 3(6), e98. https://doi.org/10.1371/journal.pgen.0030098
 
 Martínez-Fernández, R., Gasca-Salas, C., Sánchez-Ferro, Á., & Obeso, J. Á. (2016). Actualización en la enfermedad de Parkinson. Revista Médica Clínica Las Condes, 27(3), 363-379.
 
@@ -18,7 +18,7 @@ Rodríguez-Martínez, C. E., Sossa-Briceño, M. P., Payan-Gomez, C., Riaño-More
 
 Jahabardeen A, S N, J N, V C. A Review on the Role of SNCA Gene in Neurodegenerative Diseases. Cureus. 2024 Sep 15;16(9):e69450. doi: 10.7759/cureus.69450. PMID: 39411638; PMCID: PMC11476641
 
-Watanabe H, Shima S, Kawabata K, Mizutani Y, Ueda A, Ito M. Brain network and energy imbalance in Parkinson's disease: linking ATP reduction and α-synuclein pathology. Front Mol Neurosci. 2025 Jan 22;17:1507033. doi: 10.3389/fnmol.2024.1507033. PMID: 39911281; PMCID: PMC11794324.
+Watanabe, H., Shima, S., Kawabata, K., Mizutani, Y., Ueda, A., & Ito, M. (2025). Brain network and energy imbalance in Parkinson's disease: linking ATP reduction and α-synuclein pathology. Frontiers in molecular neuroscience, 17, 1507033. https://doi.org/10.3389/fnmol.2024.1507033
 
 Martijn P. van den Heuvel, Olaf Sporns, Network hubs in the human brain, Trends in Cognitive Sciences, Volume 17, Issue 12, 2013, Pages 683-696, ISSN 1364-6613. https://doi.org/10.1016/j.tics.2013.09.012.
 
@@ -38,10 +38,10 @@ Soukup, S.-F., Vanhauwaert, R., & Verstreken, P. (2018). Parkinson's disease: Co
 
 Calabresi, P., Mechelli, A., Natale, G. et al. Alpha-synuclein in Parkinson’s disease and other synucleinopathies: from overt neurodegeneration back to early synaptic dysfunction. Cell Death Dis 14, 176 (2023). https://doi.org/10.1038/s41419-023-05672-9
 
-Zhang, B. & Horvath, S. (2005). “A General Framework for Weighted Gene Co-Expression Network Analysis (WGCNA).” Statistical Applications in Genetics and Molecular Biology, 4(1).
+Zhang, B., & Horvath, S. (2005). A general framework for weighted gene co-expression network analysis. Statistical applications in genetics and molecular biology, 4, Article17. https://doi.org/10.2202/1544-6115.1128
 
-Love, M.I., Huber, W., Anders, S. (2014). “Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2.” Genome Biology, 15(12):550.
+Love, M. I., Huber, W., & Anders, S. (2014). Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. Genome biology, 15(12), 550. https://doi.org/10.1186/s13059-014-0550-8
 
-Shannon, P. et al. (2003). “Cytoscape: a software environment for integrated models of biomolecular interaction networks.” Genome Research, 13(11): 2498–2504.
+Shannon, P., Markiel, A., Ozier, O., Baliga, N. S., Wang, J. T., Ramage, D., Amin, N., Schwikowski, B., & Ideker, T. (2003). Cytoscape: a software environment for integrated models of biomolecular interaction networks. Genome research, 13(11), 2498–2504. https://doi.org/10.1101/gr.1239303
 
-Szklarczyk, D. et al. (2021). “STRING v11: Protein–protein association networks with increased coverage.” Nucleic Acids Research, 49(D1): D605–D612.
+Szklarczyk, D., Gable, A. L., Lyon, D., Junge, A., Wyder, S., Huerta-Cepas, J., Simonovic, M., Doncheva, N. T., Morris, J. H., Bork, P., Jensen, L. J., & Mering, C. V. (2019). STRING v11: protein-protein association networks with increased coverage, supporting functional discovery in genome-wide experimental datasets. Nucleic acids research, 47(D1), D607–D613. https://doi.org/10.1093/nar/gky1131
