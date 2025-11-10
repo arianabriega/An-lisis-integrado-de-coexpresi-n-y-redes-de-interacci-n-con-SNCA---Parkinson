@@ -59,4 +59,4 @@ Este dataset contiene perfiles de expresión génica de la **sustancia negra** d
 
 ---
 
-📖 La lista completa de referencias bibliográficas se incluye en el archivo **`Bibliografía`**, que acompaña este repositorio.
+📖 La lista completa de referencias bibliográficas se incluye en el archivo **`Papers`**, que acompaña este repositorio.
